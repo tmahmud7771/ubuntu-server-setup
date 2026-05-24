@@ -9,8 +9,8 @@ This project provides an automated script to set up a modern Zsh environment on 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/zsh-setup.git
-cd zsh-setup
+git clone https://github.com/tmahmud7771/ubuntu-server-setup
+cd ubuntu-server-setup
 ````
 
 
